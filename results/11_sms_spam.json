@@ -1,0 +1,6 @@
+{
+  "best_model": "Lojistik Regresyon",
+  "precision_spam": 0.9452054794520548,
+  "recall_spam": 0.9261744966442953,
+  "f1_spam": 0.9355932203389831
+}

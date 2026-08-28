@@ -1,0 +1,9 @@
+,,bill_length_mm,bill_length_mm,bill_length_mm,bill_depth_mm,bill_depth_mm,bill_depth_mm,flipper_length_mm,flipper_length_mm,flipper_length_mm,body_mass_g,body_mass_g,body_mass_g
+,,count,mean,median,count,mean,median,count,mean,median,count,mean,median
+species,sex,,,,,,,,,,,,
+Adelie,female,73,37.3,37.0,73,17.6,17.6,73,187.8,188.0,73,3368.8,3400.0
+Adelie,male,73,40.4,40.6,73,19.1,18.9,73,192.4,193.0,73,4043.5,4000.0
+Chinstrap,female,34,46.6,46.3,34,17.6,17.6,34,191.7,192.0,34,3527.2,3550.0
+Chinstrap,male,34,51.1,51.0,34,19.3,19.3,34,199.9,200.5,34,3939.0,3950.0
+Gentoo,female,58,45.6,45.5,58,14.2,14.2,58,212.7,212.0,58,4679.7,4700.0
+Gentoo,male,61,49.5,49.5,61,15.7,15.7,61,221.5,221.0,61,5484.8,5500.0

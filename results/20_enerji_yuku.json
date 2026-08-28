@@ -1,0 +1,7 @@
+{
+  "best_model": "Random Forest baseline",
+  "mlp_epochs": 195,
+  "MAE": 0.3563465596230389,
+  "RMSE": 0.5051795066711812,
+  "R2": 0.9975515644729032
+}

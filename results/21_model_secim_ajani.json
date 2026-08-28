@@ -1,0 +1,16 @@
+{
+  "audit": {
+    "rows": 178,
+    "features": 13,
+    "missing_cells": 0,
+    "duplicate_rows": 0,
+    "minority_ratio": 0.2696629213483146
+  },
+  "scores": {
+    "RBF-SVM": 0.9833573188343172,
+    "Lojistik Regresyon": 0.9829048995413181,
+    "Random Forest": 0.9783950617283951
+  },
+  "decision": "RBF-SVM",
+  "criterion": "5-fold stratified CV macro-F1"
+}

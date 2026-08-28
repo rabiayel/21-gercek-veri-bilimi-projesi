@@ -1,0 +1,6 @@
+{
+  "best_model": "Lojistik Regresyon",
+  "accuracy": 0.956140350877193,
+  "f1": 0.9645390070921985,
+  "roc_auc": 0.9953703703703703
+}

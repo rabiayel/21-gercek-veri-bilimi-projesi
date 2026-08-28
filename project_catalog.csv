@@ -1,0 +1,22 @@
+number,title,category,dataset,filename,model_file
+1,Öğrenci Başarı Notu Tahmini,Regresyon,UCI Student Performance,01_regresyon_ogrenci_basari.ipynb,01_ogrenci_basari.joblib
+2,Otomobil Yakıt Verimliliği Tahmini,Regresyon,UCI Auto MPG,02_regresyon_otomobil_yakit.ipynb,02_auto_mpg.joblib
+3,Gayrimenkul Birim Fiyat Tahmini,Regresyon,UCI Real Estate Valuation,03_regresyon_gayrimenkul_deger.ipynb,03_gayrimenkul.joblib
+4,Iris Çiçek Türü Sınıflandırması,Sınıflandırma,Fisher Iris (scikit-learn/UCI),04_siniflandirma_iris.ipynb,04_iris.joblib
+5,Meme Kanseri Tanı Sınıflandırması,Sınıflandırma,Wisconsin Diagnostic Breast Cancer,05_siniflandirma_meme_kanseri.ipynb,05_meme_kanseri.joblib
+6,Banka Kampanyası Yanıt Tahmini,Sınıflandırma,UCI Bank Marketing,06_siniflandirma_banka_pazarlama.ipynb,06_banka_pazarlama.joblib
+7,Toptan Müşteri Segmentasyonu,Kümeleme,UCI Wholesale Customers,07_kumeleme_toptan_musteri.ipynb,07_toptan_musteri_kumeleme.joblib
+8,Şarap Kimyasıyla Denetimsiz Kümeleme,Kümeleme,UCI Wine,08_kumeleme_sarap_kimyasi.ipynb,08_sarap_kumeleme.joblib
+9,El Yazısı Rakam Tanıma,Bilgisayarlı Görü,scikit-learn Optical Recognition of Handwritten Digits,09_bilgisayarli_goru_rakam_tanima.ipynb,09_rakam_tanima.joblib
+10,Gerçek Fotoğrafta Renk Sıkıştırma,Bilgisayarlı Görü,scikit-learn China sample photograph,10_bilgisayarli_goru_renk_sikistirma.ipynb,10_renk_sikistirma.joblib
+11,SMS Spam Mesaj Sınıflandırması,Doğal Dil İşleme (NLP),UCI SMS Spam Collection,11_nlp_sms_spam.ipynb,11_sms_spam.joblib
+12,Film Yorumlarında Konu Modelleme,Doğal Dil İşleme (NLP),NLTK Movie Reviews / Pang & Lee Polarity Dataset,12_nlp_film_yorumlari_konu_modelleme.ipynb,12_film_konu_modelleme.joblib
+13,MovieLens İçerik Tabanlı Film Önerisi,Öneri Sistemleri,GroupLens MovieLens latest-small,13_oneri_movielens_icerik.ipynb,13_movielens_icerik.joblib
+14,MovieLens İşbirlikçi Film Önerisi,Öneri Sistemleri,GroupLens MovieLens latest-small,14_oneri_movielens_isbirlikci.ipynb,14_movielens_isbirlikci.joblib
+15,Atmosferik CO₂ Zaman Serisi Tahmini,Zaman Serisi,Mauna Loa Weekly Atmospheric CO₂ (statsmodels),15_zaman_serisi_co2_tahmin.ipynb,15_co2_zaman_serisi.joblib
+16,Güneş Lekesi Aktivitesi Tahmini,Zaman Serisi,Annual Sunspots (statsmodels),16_zaman_serisi_gunes_lekesi.ipynb,16_gunes_lekesi.joblib
+17,Palmer Penguenleri Görsel Veri Analizi,Veri Görselleştirme,Palmer Penguins,17_veri_gorsellestirme_penguen.ipynb,
+18,Titanic Yolcu Verisi Görsel Analizi,Veri Görselleştirme,OpenML Titanic 40945,18_veri_gorsellestirme_titanic.ipynb,
+19,Derin MLP ile Rakam Sınıflandırma,Derin Öğrenme,scikit-learn Digits,19_derin_ogrenme_mlp_rakam.ipynb,19_derin_mlp_rakam.joblib
+20,Derin MLP ile Bina Isıtma Yükü,Derin Öğrenme,UCI Energy Efficiency,20_derin_ogrenme_enerji_yuku.ipynb,20_enerji_yuku.joblib
+21,Otomatik Veri Bilimi Ajanı,AI Agents,UCI Wine,21_ai_agent_otomatik_model_secimi.ipynb,21_model_secim_ajani.joblib

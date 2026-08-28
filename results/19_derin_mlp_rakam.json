@@ -1,0 +1,5 @@
+{
+  "mlp_accuracy": 0.9722222222222222,
+  "epochs": 37,
+  "baseline_accuracy": 0.9555555555555556
+}
