@@ -67,53 +67,6 @@ Rabia_Yel_21_Gercek_Veri_Projesi/
 └── LICENSE              # MIT Lisansı
 ```
 
-## Kurulum
-
-### 1. Depoyu klonlayın
-
-```bash
-git clone GITHUB_REPO_ADRESINIZ
-cd 21-gercek-veri-bilimi-projesi
-```
-
-### 2. Sanal ortam oluşturun
-
-macOS / Linux:
-
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-```
-
-Windows:
-
-```powershell
-python -m venv .venv
-.venv\Scripts\activate
-```
-
-### 3. Bağımlılıkları yükleyin
-
-```bash
-python -m pip install --upgrade pip
-pip install -r requirements.txt
-```
-
-## Notebookları çalıştırma
-
-VS Code kullanıyorsanız **Python** ve **Jupyter** eklentilerini yükleyin. Ardından `notebooks/` klasöründeki bir `.ipynb` dosyasını açıp uygun Python çekirdeğini seçin ve **Run All** komutunu çalıştırın.
-
-Notebooklar proje kökünden çalıştırılmalıdır. Kod, gerekli `data/`, `models/` ve `results/` yollarını otomatik olarak bulur.
-
-## Streamlit uygulaması
-
-Uygulamayı yerelde başlatmak için:
-
-```bash
-streamlit run app.py
-```
-
-Komut çalıştıktan sonra uygulama varsayılan olarak [`http://localhost:8501`](http://localhost:8501) adresinde açılır.
 
 ## Veri ve modeller
 
@@ -123,22 +76,6 @@ Komut çalıştıktan sonra uygulama varsayılan olarak [`http://localhost:8501`
 - Modelleme içeren 19 çalışma için eğitilmiş `.joblib` dosyaları `models/` klasörüne kaydedilmiştir.
 - Yalnızca görsel analiz içeren 17 ve 18 numaralı projelerde model dosyası bulunmaz.
 
-## Yeniden üretilebilirlik
-
-Notebookların tamamı **26 Ağustos 2026** tarihinde baştan sona çalıştırılmış ve çıktıları dosyalara kaydedilmiştir. Paket içindeki veri kopyaları sayesinde analizlerin büyük bölümü ek veri indirmeden yeniden çalıştırılabilir.
-
-Sonuçlar kullanılan kütüphane sürümü, işletim sistemi ve donanıma bağlı olarak küçük farklılıklar gösterebilir. Kullanılan temel paket sürümleri `requirements.txt` dosyasında sabitlenmiştir.
-
-## Kullanılan teknolojiler
-
-- Python 3.12
-- Jupyter Notebook
-- pandas ve NumPy
-- Matplotlib ve Seaborn
-- scikit-learn
-- SciPy ve statsmodels
-- Streamlit
-- Joblib
 
 ## Referans proje listeleri
 
@@ -150,10 +87,4 @@ Proje seçimi ve alternatif çözüm incelemelerinde aşağıdaki çalışma lis
 ## Lisans
 
 Proje kodları [`MIT Lisansı`](LICENSE) ile sunulmaktadır. Veri setlerinin lisans ve kullanım koşulları kendi sağlayıcılarına aittir.
-
-## Hazırlayan
-
-**Rabia Yel**
-
-Bu depo, veri bilimi ve makine öğrenmesi alanlarında uygulamalı çalışma ve ödev teslimi amacıyla hazırlanmıştır.
 
