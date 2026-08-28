@@ -1,12 +1,4 @@
----
-title: Rabia Yel - 21 Gerçek Veri Projesi
-emoji: 📊
-colorFrom: blue
-colorTo: purple
-sdk: streamlit
-app_file: app.py
-pinned: false
----
+
 
 # 21 Gerçek Veri Bilimi Projesi
 
